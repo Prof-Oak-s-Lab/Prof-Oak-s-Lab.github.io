@@ -5,9 +5,9 @@ Go [here](#) for **🔭 Theorized glitches 🔭**
 
 Go [here](#) for **❓ Undocumented glitches ❓**
 
-Go [here](#) for **🔬 Glitches that are currently being researched 🔬**
+Go [here](activeresearch.md) for **🔬 Glitches that are currently being researched 🔬**
 
-Go [here](activeresearch.md) for **🧪 Glitches that are being expanded 🧪**
+Go [here](#) for **🧪 Glitches that are being expanded 🧪**
 
 Go [here](#) for **🧫 Glitches that are being tested 🧫**
 

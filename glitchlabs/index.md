@@ -3,7 +3,7 @@ The glitch labs are where we study glitches!
 
 Go [here](#) for **🔭 Theorized glitches 🔭**
 
-Go [here](#) for **❓ Undocumented glitches ❓**
+Go [here](undocumented.md) for **❓ Undocumented glitches ❓**
 
 Go [here](activeresearch.md) for **🔬 Glitches that are currently being researched 🔬**
 
